@@ -24,7 +24,7 @@ To deploy this project, run the following code from the scripts folder
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![READMEGen](https://github.com/RecceRaven/readMeGenerator/assets/149850541/485cfd02-b90c-46a1-929c-b51c29819e87)
 
 
 ## Links
