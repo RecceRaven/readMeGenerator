@@ -1,35 +1,34 @@
 
-# Sample Readme
+# README Generator
 
-## Description
-This was made with my ReadMe generator
+This is a ReadMe file generator intended for use by anyone who requires a Readme.md file be created.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
-## Installation
-Install by running node index.js from the scripts folder
+## Deployment
 
-## Usage
-Anyone can use this
+To deploy this project, run the following code from the scripts folder
 
-## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-Addition info
+```bash
+  npm i
+  node index.js
+```
 
-## Contributing
-contributing info
 
-## Tests
-test info
+## Features
 
-## Questions
-For additional questions, contact Anthony Ramdeen via:
-- GitHub: [RecceRaven](https://github.com/RecceRaven)
-- Email: [123@fake.com](mailto:123@fake.com)
-    
+- Adds badge for license
+- Links to your Github account
+- Links to your email
+- Easy to use
+
+
+## Screenshots
+
+![READMEGen](https://github.com/RecceRaven/readMeGenerator/assets/149850541/485cfd02-b90c-46a1-929c-b51c29819e87)
+
+
+## Links
+
+Repo: https://github.com/RecceRaven/readMeGenerator
+
+
