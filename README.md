@@ -31,5 +31,7 @@ To deploy this project, run the following code from the scripts folder
 
 Repo: https://github.com/RecceRaven/readMeGenerator
 
+Link to Video: https://www.youtube.com/watch?v=R4u7ps7RPg0
+
 
 
